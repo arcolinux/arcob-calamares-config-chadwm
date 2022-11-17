@@ -1,0 +1,2 @@
+# ArcoLinuxB-Chadwm Calamares configuration
+
